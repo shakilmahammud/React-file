@@ -1,0 +1,12 @@
+body button{
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #666;
+    text-decoration: none;
+}
+h1{
+    color: red;
+}
